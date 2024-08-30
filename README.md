@@ -11,5 +11,6 @@ Also a mode to compare the algorythms between them, based on image characteristi
 3D plots with the intensity of the gradient in each point of the images are available.
 
 Video demo of the application: https://www.youtube.com/watch?v=J6E2is0xl6o
+[![Cuda border processor](https://img.youtube.com/vi/J6E2is0xl6o/0.jpg)](https://www.youtube.com/watch?v=J6E2is0xl6o)
 
 Tu build the application you would need to install the Cuda Sdk. To run the GPU version of the algorythms a Cuda capable GPU is needed.
